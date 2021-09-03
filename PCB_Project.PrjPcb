@@ -156,6 +156,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFATKQAO
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for PCB_Project\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
