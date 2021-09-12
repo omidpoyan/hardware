@@ -34,7 +34,7 @@ OutputMedium3_Type=GeneratedFiles
 OutputMedium4=Video
 OutputMedium4_Type=Multimedia
 OutputType1=Schematic Print
-OutputName1=Schematic Prints
+OutputName1=Schematic
 OutputCategory1=Documentation
 OutputDocumentPath1=
 OutputVariantName1=
@@ -71,9 +71,9 @@ Configuration2_Name5=VisibleOrder
 Configuration2_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 
 [PublishSettings]
-OutputFilePath2=Project Outputs for Free Documents\.PDF
+OutputFilePath2=C:\Users\Esmaeill\Documents\Altium\Projects\LAOS\Outputs\Job1.PDF
 ReleaseManaged2=1
-OutputBasePath2=Project Outputs for PCB_Project
+OutputBasePath2=Outputs
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -98,9 +98,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\Esmaeill\Documents\Altium\Projects\LAOS\Project Outputs for PCB_Project\
+OutputFilePath3=C:\Users\Esmaeill\Documents\Altium\Projects\LAOS\Outputs\
 ReleaseManaged3=1
-OutputBasePath3=Project Outputs for PCB_Project
+OutputBasePath3=Outputs
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -113,7 +113,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=Project Outputs for PCB_Project
+OutputBasePath4=Project Outputs for IOElectro_SimpleOscilloscope
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
@@ -150,9 +150,9 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=Project Outputs for Free Documents\.PDF
+RelativeOutputPath2=C:\Users\Esmaeill\Documents\Altium\Projects\LAOS\Outputs\Job1.PDF
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\Esmaeill\Documents\Altium\Projects\LAOS\Project Outputs for PCB_Project\
+RelativeOutputPath3=C:\Users\Esmaeill\Documents\Altium\Projects\LAOS\Outputs\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
