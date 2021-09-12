@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 09:17:16 ?.? On 12/09/2021
+Start Output Generation At 09:24:35 ?.? On 12/09/2021
 
 Output: Bill of Materials
 Type  : BOM
@@ -11,4 +11,4 @@ From  : Variant [[No Variations]] of Project [IOElectro_SimpleOscilloscope.PrjPc
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 09:17:26 ?.? On 12/09/2021
+Finished Output Generation At 09:24:44 ?.? On 12/09/2021
